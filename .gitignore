@@ -1,0 +1,10 @@
+# Microsoft Office lock/temp files
+~$*
+*.tmp
+
+# Google Drive / Windows shell metadata
+desktop.ini
+
+# OS cruft
+.DS_Store
+Thumbs.db
